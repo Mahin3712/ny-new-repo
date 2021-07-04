@@ -2,3 +2,10 @@ h1{
     background-color: blueviolet;
     color: darkblue;
 }
+p{
+    border: darkcyan;
+    border-radius: 2px;
+    padding: 20px;
+    background-color: darkgreen;
+    color: darkred;
+}
